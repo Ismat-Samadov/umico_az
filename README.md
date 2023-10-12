@@ -2,7 +2,7 @@ Certainly! Below is an example of a descriptive README file for your project. Yo
 
 ---
 
-# Umico.az Data Analysis and Modeling
+# Umico.az Data Analyse and Modeling
 C:.
 ├───.idea
 │   └───inspectionProfiles
