@@ -16,8 +16,6 @@ C:.
 │       └───__pycache__
 └───modelling
     └───.ipynb_checkpoints
-![Umico Logo](umico_logo.png)
-
 ## Table of Contents
 
 - [Overview](#overview)
