@@ -1,7 +1,3 @@
-Certainly! Below is an example of a descriptive README file for your project. You can use this as a template and customize it to fit the specific details of your project.
-
----
-
 # Umico.az Data Analyse and Modeling
 C:.
 ├───.idea
