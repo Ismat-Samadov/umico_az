@@ -1,4 +1,6 @@
 # Umico.az Data Analyse and Modeling
+
+```bash
 C:.
 ├───.idea
 │   └───inspectionProfiles
@@ -12,6 +14,7 @@ C:.
 │       └───__pycache__
 └───modelling
     └───.ipynb_checkpoints
+```
 ## Table of Contents
 
 - [Overview](#overview)
