@@ -82,7 +82,3 @@ Contributions to this project are welcome. If you would like to contribute, plea
 - Fork the repository.
 - Create a new branch for your feature or fix.
 - Make your changes and submit a pull request.
-
-## License
-
----
